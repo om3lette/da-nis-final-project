@@ -1,3 +1,7 @@
 .idea
 __pycache__
 .venv
+
+
+data-analysis/datasets/*
+!data-analysis/datasets/Customer-Churn.csv
